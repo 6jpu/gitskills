@@ -1,3 +1,3 @@
 # gitskills
-readme
+read me
 update
